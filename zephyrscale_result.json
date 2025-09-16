@@ -1,0 +1,25 @@
+{
+  "version" : 1,
+  "executions" : [ {
+    "source" : "ir.co.zephyer.CalculatorSumTest.mappedToTestCaseNameAndPass",
+    "result" : "Passed",
+    "testCase" : {
+      "name" : "Mapped to Test Case Name and Pass"
+    }
+  }, {
+    "source" : "ir.co.zephyer.CalculatorSumTest.notMappedToTestCaseAndPass",
+    "result" : "Passed"
+  }, {
+    "source" : "ir.co.zephyer.CalculatorSumTest.sumTwoNumbersAndFail",
+    "result" : "Passed",
+    "testCase" : {
+      "key" : "SAM-T27"
+    }
+  }, {
+    "source" : "ir.co.zephyer.CalculatorSumTest.sumTwoNumbersAndPass",
+    "result" : "Passed",
+    "testCase" : {
+      "key" : "SAM-T26"
+    }
+  } ]
+}
